@@ -223,7 +223,7 @@ export default function People() {
                   <div className="col-lg-6 col-12">
                     <div className="people-thumb image-hover-thumb">
                       <img
-                        src="images/keith.jpeg"
+                        src="images/Keith.jpeg"
                         className="people-image img-fluid"
                         alt=""
                       />
@@ -250,7 +250,7 @@ export default function People() {
                   <div className="col-lg-6 col-12">
                     <div className="people-thumb image-hover-thumb">
                       <img
-                        src="images/rio.jpeg"
+                        src="images/Rio.jpeg"
                         className="people-image img-fluid"
                         alt=""
                       />

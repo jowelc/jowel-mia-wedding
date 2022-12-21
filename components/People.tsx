@@ -172,12 +172,38 @@ export default function People() {
                       </div>
 
                       <p>
-                        J Castañeda, 22. The cord sponsor tie or place the cord
-                        over the groom (will also remove it after Communion). He
-                        is there to get ready with the groom and get the party
-                        started. He also performs important duties during the
-                        wedding where he is mostly responsible to assist the
-                        Groom in his needs throughout the day.
+                        J Castañeda, 22. The first cord sponsor, tie or place
+                        the cord over the groom. He is there to get ready with
+                        the groom and get the party started. He also performs
+                        important duties during the wedding where he is mostly
+                        responsible to assist the Groom in his needs throughout
+                        the day.
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-6 col-12">
+                    <div className="people-thumb image-hover-thumb">
+                      <img
+                        src="images/jonel.jpeg"
+                        className="people-image img-fluid"
+                        alt=""
+                      />
+                    </div>
+                  </div>
+
+                  <div className="col-lg-6 col-12">
+                    <div className="section-block">
+                      <div className="d-flex align-items-center my-3">
+                        <h4 className="mb-0">Jonel</h4>
+
+                        <span className="about-tag ms-2">Brother</span>
+                      </div>
+
+                      <p>
+                        J Castañeda, 18. The second cord sponsor is responsible
+                        in removing the cord after Communion. He is also there
+                        for some specific role like assisting the groom all day.
                       </p>
                     </div>
                   </div>
@@ -293,11 +319,36 @@ export default function People() {
                       </div>
 
                       <p>
-                        R Reyes, 26. The cord sponsor tie or place the cord over
-                        the bride (will also remove it after Communion). She
-                        also performs important duties during the wedding where
-                        she is mostly responsible to assist the bride in her
-                        needs throughout the day.
+                        R Reyes, 26. The first cord sponsor, tie or place the
+                        cord over the bride. She also performs important duties
+                        during the wedding where she is mostly responsible to
+                        assist the bride in her needs throughout the day.
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-6 col-12">
+                    <div className="people-thumb image-hover-thumb">
+                      <img
+                        src="images/jaymee.jpeg"
+                        className="people-image img-fluid"
+                        alt=""
+                      />
+                    </div>
+                  </div>
+
+                  <div className="col-lg-6 col-12">
+                    <div className="section-block">
+                      <div className="d-flex align-items-center my-3">
+                        <h4 className="mb-0">Jaymee</h4>
+
+                        <span className="about-tag ms-2">Friend</span>
+                      </div>
+
+                      <p>
+                        JA Torrecampo, 17. The second cord sponsor is
+                        responsible for removing the cord after Communion. She
+                        also there to assist the bride for the whole wedding.
                       </p>
                     </div>
                   </div>

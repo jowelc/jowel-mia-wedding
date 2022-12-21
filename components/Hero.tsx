@@ -14,12 +14,12 @@ function Header() {
             </h1>
 
             <p className="text-white mb-2">
-              <i className="bi-check-circle-fill custom-icon me-1"></i>
+              <i className="bi-bookmark-heart custom-icon me-1"></i>
               Jowel Yambao Castañeda
             </p>
 
             <p className="text-white">
-              <i className="bi-check-circle-fill custom-icon me-1"></i>
+              <i className="bi-bookmark-heart custom-icon me-1"></i>
               Mia Tricia Reyes Paras
             </p>
 

@@ -83,7 +83,7 @@ export default function People() {
                       <div className="d-flex align-items-center my-3">
                         <h4 className="mb-0">Gian</h4>
 
-                        <span className="about-tag ms-2">Best friend</span>
+                        <span className="about-tag ms-2">friend</span>
                       </div>
 
                       <p>
@@ -112,7 +112,7 @@ export default function People() {
                       <div className="d-flex align-items-center my-3">
                         <h4 className="mb-0">Aaron</h4>
 
-                        <span className="about-tag ms-2">Best friend</span>
+                        <span className="about-tag ms-2">friend</span>
                       </div>
 
                       <p>
@@ -167,7 +167,7 @@ export default function People() {
                       <div className="d-flex align-items-center my-3">
                         <h4 className="mb-0">Justine</h4>
 
-                        <span className="about-tag ms-2">Chan</span>
+                        <span className="about-tag ms-2">friend</span>
                       </div>
 
                       <p>

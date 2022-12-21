@@ -55,7 +55,7 @@ export default function Invitation() {
               <h5 className="question mb-4">
                 Will you attend?&nbsp;
                 <span className="text-muted">
-                  Please reserve before March 2th, 2022
+                  Please reserve before December 30, 2022
                 </span>
               </h5>
 
@@ -74,7 +74,7 @@ export default function Invitation() {
                         target="_blank"
                         href="https://docs.google.com/spreadsheets/d/1eB9ggR0th2LiYLPj9PtTSnlCrzFCiT04CiuKXkXOtdU/edit#gid=0"
                       >
-                        Check Guest List
+                        Click here!
                       </Link>
                     </button>
                   </div>

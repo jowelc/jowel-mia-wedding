@@ -88,11 +88,9 @@ export default function People() {
 
                       <p>
                         RG Cabrera, 26. The best man is the groom's right-hand
-                        man at the wedding. Usually this person is asked to
-                        stand by the groom's side to support and assist in any
-                        way possible before and during the wedding. He is also
-                        responsible for lending a hand during pre-wedding events
-                        and the reception.
+                        man at the wedding. This person is asked to stand by the
+                        groom's side to support and assist in any way possible
+                        before and during the wedding.
                       </p>
                     </div>
                   </div>
@@ -118,8 +116,7 @@ export default function People() {
                       <p>
                         AJ Rosal, 25. The candle sponsor light the wedding
                         candles before the rite of marriage. He also help the
-                        best man with his duties, usher in guests before the
-                        ceremony, and escort the bridesmaids during the
+                        best man with his duties and usher in guests before the
                         ceremony.
                       </p>
                     </div>
@@ -173,7 +170,7 @@ export default function People() {
                       <p>
                         JK Chan, 25. The second veil sponsor will also remove
                         the veil after the cord is removed. He is also the groom
-                        tasks/schedule coordinator.
+                        tasks and schedule coordinator.
                       </p>
                     </div>
                   </div>
@@ -225,8 +222,7 @@ export default function People() {
                       <p>
                         J Castañeda, 18. The second cord sponsor is responsible
                         in removing the cord after Communion. He is also there
-                        for some specific role like assisting the groom's
-                        guests.
+                        to make sure everything will go as planned.
                       </p>
                     </div>
                   </div>

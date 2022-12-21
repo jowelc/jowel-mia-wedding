@@ -37,8 +37,10 @@ export default function About() {
 
               <p>
                 When I first met jowel, I already had a crush on him. He is so
-                amazing, talented, smart, funny, and an absolute sweetheart.
-                He's simply my other half.
+                amazing, talented, smart, funny, and an absolute sweetheart. He
+                makes me smile when I am sad. He lifts me up when I'm feeling
+                down. He always believe in me, even when I couldn't even belive
+                on myself. He's simply my other half.
               </p>
 
               <div className="social-icon-wrap mt-auto">
@@ -89,9 +91,14 @@ export default function About() {
                 <span className="about-tag ms-2">The Groom</span>
               </div>
 
-              <p>She's cool.</p>
-
-              <p>I like her.</p>
+              <p>Si Mia ay gubat na di makalat, parang dagat na di maalat.</p>
+              <p>
+                Para siyang sunog na walang apoy, parang durian na walang amoy.
+              </p>
+              <p>
+                Kung titignan siya ay di perpekto, pero sa buhay ko siya lang
+                ang kukumpleto.
+              </p>
 
               <div className="social-icon-wrap mt-auto">
                 <ul className="social-icon ms-auto">

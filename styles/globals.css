@@ -408,6 +408,24 @@ strong {
 /*---------------------------------------
   HERO              
 -----------------------------------------*/
+@media (max-width: 768px) {
+  .hero-container {
+    background-image: url('/images/hero2.jpeg') !important;
+    background-size: cover !important;
+  }
+
+  .hero-container h2 {
+    color: black !important;
+  }
+
+  .hero-container h1 {
+    color: black !important;
+  }
+
+  .hero-container p {
+    color: black !important;
+  }
+}
 .hero-container {
   background-color: gray;
   background-image: url('/images/hero.jpeg');

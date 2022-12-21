@@ -155,7 +155,7 @@ export default function People() {
                   <div className="col-lg-6 col-12">
                     <div className="people-thumb image-hover-thumb">
                       <img
-                        src="images/Chan.jpeg"
+                        src="images/chan.jpeg"
                         className="people-image img-fluid"
                         alt=""
                       />

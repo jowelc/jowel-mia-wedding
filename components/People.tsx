@@ -199,10 +199,7 @@ export default function People() {
                       <p>
                         J Castañeda, 22. The first cord sponsor, tie or place
                         the cord over the groom. He is there to get ready with
-                        the groom and get the party started. He also performs
-                        important duties during the wedding where he is mostly
-                        responsible to assist the Groom in his needs throughout
-                        the day.
+                        the groom and get the party started.
                       </p>
                     </div>
                   </div>

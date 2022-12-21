@@ -144,11 +144,36 @@ export default function People() {
                       </div>
 
                       <p>
-                        MD Punzalan, 24. The veil sponsor drape the veil over
-                        the groom's shoulder (will also remove it after the cord
-                        is removed). Besides giving support to the groom, this
-                        guy typically also help the groom with whatever last
-                        minute errands he needs to run.
+                        MD Punzalan, 24. The first veil sponsor drape the veil
+                        over the groom's shoulder. Besides giving support to the
+                        groom, this guy typically also help the groom with
+                        whatever last minute errands he needs to run.
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-6 col-12">
+                    <div className="people-thumb image-hover-thumb">
+                      <img
+                        src="images/Chan.jpeg"
+                        className="people-image img-fluid"
+                        alt=""
+                      />
+                    </div>
+                  </div>
+
+                  <div className="col-lg-6 col-12">
+                    <div className="section-block">
+                      <div className="d-flex align-items-center my-3">
+                        <h4 className="mb-0">Justine</h4>
+
+                        <span className="about-tag ms-2">Chan</span>
+                      </div>
+
+                      <p>
+                        JK Chan, 25. The second veil sponsor will also remove
+                        the veil after the cord is removed. He is also the groom
+                        tasks/schedule coordinator.
                       </p>
                     </div>
                   </div>
@@ -203,7 +228,8 @@ export default function People() {
                       <p>
                         J Castañeda, 18. The second cord sponsor is responsible
                         in removing the cord after Communion. He is also there
-                        for some specific role like assisting the groom all day.
+                        for some specific role like assisting the groom's
+                        guests.
                       </p>
                     </div>
                   </div>
@@ -266,9 +292,10 @@ export default function People() {
 
                       <p>
                         KR Ubando, 26. The candle sponsor light the wedding
-                        candles before the rite of marriage. She helps the bride
-                        from the dress fitting and makeup preparation on her big
-                        day. She also helps the maid of honor with her duties.
+                        candles before the rite of marriage. The lighting of
+                        this candle is a ceremonial acknowledgement of the vows
+                        exchanged by the bride and groom that have united them
+                        in marriage.
                       </p>
                     </div>
                   </div>
@@ -292,10 +319,38 @@ export default function People() {
                       </div>
 
                       <p>
-                        RL Reyes, 22. The veil sponsor drape the veil over the
-                        bride's head (will also remove it after the cord is
-                        removed). She usually seen assisting the bride
-                        throughout wedding preparations and smaller tasks.
+                        RL Reyes, 22. The first veil sponsor drape the veil over
+                        the bride's head. The veil came to symbolize modesty and
+                        obedience. In many religions it is seen as a symbol of
+                        reverence for women to cover their heads.
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-6 col-12">
+                    <div className="people-thumb image-hover-thumb">
+                      <img
+                        src="images/jaymee.jpeg"
+                        className="people-image img-fluid"
+                        alt=""
+                      />
+                    </div>
+                  </div>
+
+                  <div className="col-lg-6 col-12">
+                    <div className="section-block">
+                      <div className="d-flex align-items-center my-3">
+                        <h4 className="mb-0">Jaymee</h4>
+
+                        <span className="about-tag ms-2">Friend</span>
+                      </div>
+
+                      <p>
+                        JA Torrecampo, 17. The second veil sponsor will remove
+                        the veil after the cord is removed. The veil came to
+                        symbolize modesty and obedience. In many religions it is
+                        seen as a symbol of reverence for women to cover their
+                        heads.
                       </p>
                     </div>
                   </div>
@@ -320,9 +375,9 @@ export default function People() {
 
                       <p>
                         R Reyes, 26. The first cord sponsor, tie or place the
-                        cord over the bride. She also performs important duties
-                        during the wedding where she is mostly responsible to
-                        assist the bride in her needs throughout the day.
+                        cord over the bride. This cord symbolizes lifetime unity
+                        or the everlasting union of the bride and groom when
+                        they officially become husband and wife.
                       </p>
                     </div>
                   </div>
@@ -330,7 +385,7 @@ export default function People() {
                   <div className="col-lg-6 col-12">
                     <div className="people-thumb image-hover-thumb">
                       <img
-                        src="images/jaymee.jpeg"
+                        src="images/Jhoanne.jpeg"
                         className="people-image img-fluid"
                         alt=""
                       />
@@ -340,15 +395,16 @@ export default function People() {
                   <div className="col-lg-6 col-12">
                     <div className="section-block">
                       <div className="d-flex align-items-center my-3">
-                        <h4 className="mb-0">Jaymee</h4>
+                        <h4 className="mb-0">Jhoanne</h4>
 
                         <span className="about-tag ms-2">Friend</span>
                       </div>
 
                       <p>
-                        JA Torrecampo, 17. The second cord sponsor is
-                        responsible for removing the cord after Communion. She
-                        also there to assist the bride for the whole wedding.
+                        J Granda, 23. The second cord sponsor is responsible for
+                        removing the cord after Communion. This cord symbolizes
+                        lifetime unity or the everlasting union of the bride and
+                        groom when they officially become husband and wife.
                       </p>
                     </div>
                   </div>

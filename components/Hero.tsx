@@ -20,7 +20,7 @@ function Header() {
 
             <p className="text-white">
               <i className="bi-check-circle-fill custom-icon me-1"></i>
-              Mia Trica Reyes Paras
+              Mia Tricia Reyes Paras
             </p>
 
             <a href="#section_2" className="custom-link custom-btn btn mt-4">

@@ -39,7 +39,7 @@ export default function About() {
                 When I first met jowel, I already had a crush on him. He is so
                 amazing, talented, smart, funny, and an absolute sweetheart. He
                 makes me smile when I am sad. He lifts me up when I'm feeling
-                down. He always believe in me, even when I couldn't even belive
+                down. He always believe in me, even when I couldn't even believe
                 on myself. He's simply my other half.
               </p>
 

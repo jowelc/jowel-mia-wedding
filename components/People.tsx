@@ -394,10 +394,11 @@ export default function People() {
                       </div>
 
                       <p>
-                        J Granda, 23. The second cord sponsor is responsible for
-                        removing the cord after Communion. This cord symbolizes
-                        lifetime unity or the everlasting union of the bride and
-                        groom when they officially become husband and wife.
+                        J Granada, 23. The second cord sponsor is responsible
+                        for removing the cord after Communion. This cord
+                        symbolizes lifetime unity or the everlasting union of
+                        the bride and groom when they officially become husband
+                        and wife.
                       </p>
                     </div>
                   </div>
